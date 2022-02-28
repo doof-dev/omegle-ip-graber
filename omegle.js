@@ -1,4 +1,4 @@
-let apiKey = "1bea7247d70c4c389fade6ef2d3f40ca";
+let apiKey = "your-api-token";
 
 window.oRTCPeerConnection =
   window.oRTCPeerConnection || window.RTCPeerConnection;
